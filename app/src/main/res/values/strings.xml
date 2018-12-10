@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab5_o</string>
+    <string-array name="options_array">
+        <item>Все</item>
+        <item>Решенные</item>
+        <item>Нерешенные</item>
+    </string-array>
+</resources>
